@@ -42,4 +42,5 @@ int main()
 	lia b;
 
 	obyek = &a;
+	obyek->pesan();
 	
